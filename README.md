@@ -23,4 +23,4 @@ Após a instalação das ferramentas, clone o repositório e rode o "composer in
 
 Após instalar todas as dependências do projeto, vá até a pasta do projeto e execute o seguinte comando: "php artisan serve". 
 
-Abra o Postman (ou o Insomnia), selecione o método post e insira a seguinte url: "http://127.0.0.1:8000/api/post/pizza". Clique no botão "Body", selecione "raw" e após isso, clique no botão azul "Text" e selecione "JSON". Agora basta inserir um JSON no campo abaixo.
+Abra o Postman (ou o Insomnia), selecione o método post e insira a seguinte url: "http://127.0.0.1:8000/api/post/pizza". Clique no botão "Body", selecione "raw" e após isso, clique no botão azul "Text" e selecione "JSON". Agora, basta inserir um JSON no campo abaixo.
